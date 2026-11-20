@@ -40,7 +40,7 @@ computador”. Depois de conferir o SHA-256, clique em **Mais informações → 
 - **Capturas** em PNG sem perdas, com SHA-256 e comentários
   - Melhoria de imagem: modelos prontos ou ajuste manual.
   - Marcações (seta, retângulo e círculo).
-  - Régua com incerteza.
+  - Régua de precisão relativa.
   - Recorte.
 - **Relatório em PDF e/ou DOCX**
   - Sumário com links.
